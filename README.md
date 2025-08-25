@@ -125,10 +125,10 @@ jupyter notebook "Credit Card Fraud Detection.ipynb"
 ```
 4. Artifacts:
 
-  - Best model → `random_forest_model.joblib`
+  - **Best model** → `random_forest_model.joblib` (saved trained model, reusable for inference)
 
-  - Confusion matrices & plots
-    
+  - **Evaluation visuals** → confusion matrices (ours vs Kaggle baselines) and plots (feature distributions, correlations, outliers, etc.) — generated and viewable in the notebook
+
 ---
 
 📁 Repository Structure
